@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "ocmod:items/cheese sandwich"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [0,180,0],
+            "translation": [0,3,1],
+            "scale": [0.55,0.55,0.55]
+        },
+        "firstperson_righthand": {
+            "rotation": [-45,-40,170],
+            "translation": [3,2.5,0],
+            "scale": [0.6,0.6,0.6]
+        }
+    }
+}

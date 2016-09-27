@@ -1,0 +1,15 @@
+[
+{
+  "modid": "ocmod",
+  "name": "Lactose Intolerance Mod",
+  "description": "Why would you want lactose intolerance in Minecraft? ¯\\_(OuO)_/¯",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ocean Coombs"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
